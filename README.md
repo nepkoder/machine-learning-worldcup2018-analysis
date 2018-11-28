@@ -18,9 +18,13 @@ Installation
 ============
 
 Install Python development environment (For Linux/Mac OS)
-    sudo apt install python python3 pip pip3
-    
+
+ sudo apt install python python3 pip pip3
+
 Install Machine learning libraries
-    pip install <<package_name>>
+
+ pip install <<package_name>>
+
 OR
-    conda install <<package_name>>
+
+ conda install <<package_name>>
